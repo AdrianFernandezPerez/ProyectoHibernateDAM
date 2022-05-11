@@ -1,4 +1,4 @@
-# <center> proyectoud3-extraordinaria-AdrianFernandezPerez </center>
+# <center> Proyecto con Hibernate </center>
 Proyecto Java con Hibernate de la asignatura Acceso a Datos del curso DAM
 
 # SUPUESTO
